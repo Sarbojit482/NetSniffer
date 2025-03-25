@@ -1,6 +1,11 @@
-# Code-Fable
-Network Traffic_ Analysis Tool: - In this leading network traffic analysis 
-tool, PCAP files are processed to extract and analyze packet data to 
-identify bandwidth usage, protocol distributions, and IP communications. It 
-also identifies port scanning, DNS query activity, and ARP spoofing with full 
-network security information
+🚦 Traffic Network Analyzer
+
+📌 Overview
+Traffic Network Analyzer is a powerful Python tool designed for analyzing network traffic from PCAP/PCAPNG files. It helps in traffic monitoring, cybersecurity analysis, and detecting malicious activities like port scanning and ARP spoofing.
+
+✨ Features
+✅ Extracts source & destination IPs, protocols, and packet sizes
+✅ Detects port scanning & ARP spoofing
+✅ Identifies top active hosts and protocols
+✅ Analyzes bandwidth usage and DNS queries
+✅ Command-line interface (CLI) for easy execution
