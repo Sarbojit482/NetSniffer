@@ -49,8 +49,11 @@ Run the script with a PCAP file:
 🔬 How It Works
 
 1️⃣ Reads packets from .pcapng files using Scapy.
+
 2️⃣ Extracts and analyzes source/destination IPs, protocols, and packet sizes.
+
 3️⃣ Detects malicious activities like port scanning & ARP spoofing.
+
 4️⃣ Prints network analysis results in a structured format.
 
 📜 License
